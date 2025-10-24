@@ -1,0 +1,13 @@
+name: 'bia_dbt'
+version: '1.0.0'
+config-version: 2
+
+profile: 'bia_postgres'
+
+models:
+  bia_dbt:
+    +materialized: view
+    staging:
+      +materialized: table
+    marts:
+      +materialized: table

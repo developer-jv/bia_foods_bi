@@ -1,0 +1,21 @@
+# Core
+pandas>=2.1
+pyarrow>=15.0
+python-dotenv>=1.0.1
+
+# Validation (pick one or use both)
+pandera>=0.18
+great-expectations>=0.16
+
+# Spark (local)
+pyspark>=3.3.2
+
+# DB load
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+
+# dbt for Postgres (run locally, not container)
+dbt-postgres>=1.7
+
+
+

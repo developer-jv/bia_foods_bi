@@ -1,0 +1,54 @@
+{
+  "file": "sap_sales.csv",
+  "success": true,
+  "statistics": {
+    "evaluated_expectations": 7,
+    "successful_expectations": 7,
+    "unsuccessful_expectations": 0,
+    "success_percent": 100.0
+  },
+  "results": [
+    {
+      "expectation_type": "expect_column_to_exist",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "success": true,
+      "unexpected_percent": null,
+      "observed_value": null
+    }
+  ]
+}

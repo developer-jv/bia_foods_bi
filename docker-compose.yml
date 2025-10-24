@@ -1,0 +1,22 @@
+version: "3.9"
+services:
+  postgres:
+    image: postgres:16
+    container_name: bia_dw_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: bia_user
+      POSTGRES_PASSWORD: bia_password
+      POSTGRES_DB: bia_dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./initdb:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+volumes:
+  pgdata:

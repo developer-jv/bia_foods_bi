@@ -1,0 +1,16 @@
+product_id,product_name,category,brand,unit_price_usd,uom,active
+P00001,Chips Sea Salt 150g,Snacks,Bia Select,6.55,EA,True
+P00002,Chips BBQ 150g,Snacks,Bia Basics,1.57,EA,True
+P00003,Protein Bar 50g,Snacks,Bia Basics,11.02,EA,True
+P00004,Granola 500g,Snacks,Bia Foods,3.99,EA,True
+P00005,Nuts Mix 200g,Snacks,Bia Select,8.36,EA,True
+P00006,Iced Tea 500ml,Beverages,Bia Basics,4.57,EA,True
+P00007,Sparkling Water 330ml,Beverages,Bia Foods,6.82,EA,True
+P00008,Energy Drink 250ml,Beverages,Bia Select,7.1,EA,True
+P00009,Cold Brew 355ml,Beverages,Bia Foods,3.2,EA,True
+P00010,Peanut Butter 340g,Spreads,Bia Basics,11.67,EA,True
+P00011,Almond Butter 340g,Spreads,Bia Select,9.57,EA,True
+P00012,Hazelnut Spread 350g,Spreads,Bia Foods,11.35,EA,True
+P00013,Oatmeal 1kg,Breakfast,Bia Basics,10.86,EA,True
+P00014,Pancake Mix 500g,Breakfast,Bia Basics,7.66,EA,True
+P00015,Honey 300g,Breakfast,Bia Basics,11.16,EA,True

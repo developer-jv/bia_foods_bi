@@ -1,0 +1,81 @@
+customer_id,customer_name,segment,region,state,city
+C00001,West Grocers 103,Retail,Northeast,NY,Houston
+C00002,West Partners 436,E-commerce,Midwest,IL,Chicago
+C00003,Fresh Market 861,Retail,West,CA,Houston
+C00004,Golden Partners 271,E-commerce,Northeast,CT,Seattle
+C00005,Blue Retail 107,Wholesale,West,WA,New York
+C00006,Prime Grocers 72,Retail,Midwest,MN,Houston
+C00007,Fresh Distrib 701,Retail,South,TX,Atlanta
+C00008,Prime Market 21,E-commerce,South,VA,Boston
+C00009,Fresh Retail 615,Wholesale,Northeast,NJ,Denver
+C00010,Golden Partners 122,Retail,South,VA,New York
+C00011,Fresh Foods 467,Retail,Midwest,MI,Miami
+C00012,West Grocers 215,Retail,South,NC,Atlanta
+C00013,West Grocers 331,E-commerce,South,FL,Chicago
+C00014,West Foods 459,Retail,Midwest,WI,Boston
+C00015,West Partners 88,E-commerce,West,OR,Houston
+C00016,Golden Market 373,Wholesale,South,TX,Miami
+C00017,Golden Retail 100,E-commerce,South,TX,Atlanta
+C00018,Blue Partners 872,Wholesale,Midwest,MN,Los Angeles
+C00019,Golden Partners 664,E-commerce,South,FL,Seattle
+C00020,Blue Retail 131,Wholesale,South,VA,Atlanta
+C00021,North Distrib 662,Retail,Midwest,OH,New York
+C00022,West Foods 309,E-commerce,Northeast,MA,Miami
+C00023,Blue Retail 770,Wholesale,Northeast,NJ,Seattle
+C00024,Sun Market 344,E-commerce,South,VA,Chicago
+C00025,Fresh Grocers 492,Wholesale,South,GA,Los Angeles
+C00026,West Partners 414,Wholesale,West,CA,Seattle
+C00027,Fresh Partners 806,Wholesale,Midwest,WI,Seattle
+C00028,Prime Foods 386,E-commerce,Midwest,OH,Seattle
+C00029,Prime Distrib 192,Retail,Northeast,CT,Chicago
+C00030,Golden Market 956,Retail,South,GA,Denver
+C00031,West Distrib 277,Retail,Northeast,NY,Seattle
+C00032,West Distrib 161,E-commerce,Midwest,OH,Los Angeles
+C00033,Sun Retail 460,Wholesale,South,VA,Houston
+C00034,Blue Partners 314,E-commerce,Midwest,MI,Atlanta
+C00035,Blue Market 22,Retail,West,AZ,Houston
+C00036,Fresh Retail 253,E-commerce,Northeast,PA,Houston
+C00037,Fresh Partners 748,E-commerce,Midwest,IL,New York
+C00038,Fresh Grocers 857,Retail,Midwest,IL,Seattle
+C00039,West Distrib 561,Retail,Midwest,MI,Seattle
+C00040,North Distrib 475,Retail,Midwest,WI,Boston
+C00041,Fresh Market 59,E-commerce,West,WA,Miami
+C00042,Blue Distrib 511,E-commerce,South,NC,New York
+C00043,Blue Partners 682,Wholesale,Northeast,NY,Chicago
+C00044,Golden Retail 476,Wholesale,Midwest,OH,Los Angeles
+C00045,Prime Distrib 700,Retail,West,WA,Chicago
+C00046,Fresh Market 976,E-commerce,West,AZ,Seattle
+C00047,Sun Foods 783,Retail,Northeast,NY,Miami
+C00048,Golden Distrib 190,Retail,West,CO,Los Angeles
+C00049,Blue Grocers 958,Wholesale,West,CA,Phoenix
+C00050,West Partners 687,Wholesale,West,AZ,Los Angeles
+C00051,Golden Market 958,E-commerce,Midwest,MI,Seattle
+C00052,Fresh Market 563,E-commerce,Northeast,PA,Boston
+C00053,North Market 876,Retail,Midwest,IL,Chicago
+C00054,Blue Market 567,E-commerce,Northeast,MA,Houston
+C00055,Fresh Distrib 244,E-commerce,Northeast,CT,Denver
+C00056,Golden Partners 832,E-commerce,South,GA,Atlanta
+C00057,Blue Foods 505,E-commerce,Midwest,MI,Phoenix
+C00058,Sun Market 131,Retail,West,OR,Boston
+C00059,North Foods 485,E-commerce,Northeast,NY,Phoenix
+C00060,Fresh Foods 819,Wholesale,Midwest,MI,Phoenix
+C00061,Sun Retail 647,E-commerce,Midwest,MN,Phoenix
+C00062,Prime Partners 21,Retail,Northeast,CT,Los Angeles
+C00063,Fresh Partners 841,E-commerce,South,TX,Los Angeles
+C00064,North Foods 167,E-commerce,South,GA,Atlanta
+C00065,North Distrib 274,Wholesale,Midwest,MI,New York
+C00066,Sun Grocers 388,Retail,Northeast,NJ,New York
+C00067,West Grocers 601,Retail,South,FL,Boston
+C00068,Fresh Market 316,Retail,West,AZ,Los Angeles
+C00069,North Retail 14,Retail,Northeast,PA,Miami
+C00070,Prime Grocers 242,Retail,Midwest,IL,Atlanta
+C00071,West Market 777,Wholesale,Midwest,OH,Seattle
+C00072,West Foods 346,Retail,West,AZ,Los Angeles
+C00073,Fresh Foods 565,E-commerce,Midwest,MN,Atlanta
+C00074,Prime Foods 898,E-commerce,West,WA,Chicago
+C00075,Sun Distrib 340,Retail,West,CA,Houston
+C00076,Prime Foods 92,Retail,West,OR,New York
+C00077,Prime Grocers 367,Retail,Midwest,MN,Phoenix
+C00078,Blue Partners 956,E-commerce,South,VA,Atlanta
+C00079,Prime Foods 455,E-commerce,Northeast,NY,Phoenix
+C00080,North Distrib 428,Wholesale,Northeast,NY,Atlanta
