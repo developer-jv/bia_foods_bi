@@ -244,7 +244,3 @@ Flujo analítico end-to-end para validar, transformar y cargar datos SAP en un d
 
 ---
 
-## Licencia
-
-Indica aquí la licencia del proyecto (por ejemplo, MIT, Apache-2.0 o de uso interno).
-
