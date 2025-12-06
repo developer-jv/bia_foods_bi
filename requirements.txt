@@ -10,7 +10,7 @@ great-expectations>=0.16
 # Spark (local)
 pyspark>=3.3.2
 
-# DB load
+# DB load, testing tag release
 SQLAlchemy>=2.0
 psycopg2-binary>=2.9
 
